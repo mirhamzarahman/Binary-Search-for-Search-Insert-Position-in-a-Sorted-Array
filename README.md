@@ -1,12 +1,4 @@
-# LeetCode 35 - Search Insert Position
 
-## Problem
-
-Given a sorted array of distinct integers and a target value, return its index if found.
-
-If it is not found, return the index where it should be inserted to maintain sorted order.
-
-**Required Time Complexity:** `O(log n)`
 
 ## Approach
 
